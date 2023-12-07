@@ -1,4 +1,4 @@
-# MovieRecommendationSystem using Graph Database - Neo4j
+# Movie Recommendation System using Neo4j
    
 In this project, we built a graph-based real-time movie recommender system using cypher, the query language of Neo4j through python. We generate two kind of recommendations -
 1. Content-based recommendations: Based on the user's interactions with the system
